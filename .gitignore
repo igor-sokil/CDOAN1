@@ -1,0 +1,28 @@
+# ignore bak-files
+*.bak
+# ignore html-files
+*.html
+# ignore dep-files integrated dev. environment
+*.dep
+# ignore my.bat
+my.bat
+*.ses
+# *.txt
+log.txt
+trassirovka.txt
+*.log
+*.o
+moc*.cpp
+moc*.h
+
+# ignore files from  folder settings/
+settings/
+applications/
+
+# ignore files from  folder Flash-Debug/
+Flash-Debug/
+# ignore files from  folders 
+ses/
+nppBackup/
+.vscode/
+

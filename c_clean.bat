@@ -1,0 +1,1 @@
+start cc_clean.bat
